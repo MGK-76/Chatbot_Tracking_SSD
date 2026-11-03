@@ -218,3 +218,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# SSD Project specific exclusions
+
+# VS Code temporary files
+tempCodeRunnerFile.python
+tempCodeRunnerFile.py
+
+# Browser session data
+playwright/.cache/
+browser_profiles/
+user_data/
